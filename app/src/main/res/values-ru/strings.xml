@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Галерея Искусств</string>
+
+    <string name="artwork_title_1">Мона Лиза</string>
+    <string name="artwork_artist_1">Леонардо да Винчи</string>
+    <string name="artwork_year_1">около 1503–1506 гг.</string>
+
+    <string name="artwork_title_2">Эйфелева башня</string>
+    <string name="artwork_artist_2">Гюстав Эйфель</string>
+    <string name="artwork_year_2">1889 г.</string>
+
+    <string name="artwork_title_3">Статуя «Давид»</string>
+    <string name="artwork_artist_3">Микеланджело Буонарроти</string>
+    <string name="artwork_year_3">1501–1504 гг.</string>
+
+    <string name="artwork_title_4">Звездная ночь</string>
+    <string name="artwork_artist_4">Винсент ван Гог</string>
+    <string name="artwork_year_4">1889 г.</string>
+
+    <string name="artwork_title_5">Мавзолей Тадж-Махал</string>
+    <string name="artwork_artist_5">Устад Ахмад Лахаури</string>
+    <string name="artwork_year_5">1632–1653 гг.</string>
+
+    <string name="previous_button">Назад</string>
+    <string name="next_button">Вперед</string>
+</resources>
